@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/Hithel/Proyecto_Async_platzi/issues"
   },
-  "homepage": "https://github.com/Hithel/Proyecto_Async_platzi",
+  "homepage": "https://github.com/Hithel/Proyecto_Async_platzi#readme",
   "devDependencies": {
     "gh-pages": "^5.0.0"
   }
